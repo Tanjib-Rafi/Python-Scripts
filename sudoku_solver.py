@@ -11,8 +11,8 @@
 
 import numpy as np
 
-R = int(input("Enter the number of rows:"))
-C = int(input("Enter the number of columns:"))
+R = int(input("Enter the number of rows:")) #row will be 9
+C = int(input("Enter the number of columns:")) #col will be 9
 
 print("Enter the entries in a single line (separated by space): ")
 #the input will be space separated numbers::
